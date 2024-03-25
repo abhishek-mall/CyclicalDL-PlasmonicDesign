@@ -6,6 +6,14 @@ The conventional approach to nanophotonic metasurface design and optimization fo
 ## Code
 This repository contains the template code used for the research article. The code demonstrates the implementation of different deep learning techniques for the design of plasmonic metasurfaces.
 
+## Article
+[Link to Research Article](https://www.nature.com/articles/s41598-020-76400-y)
+
+Authors : Abhishek Mall, Abhijeet Patil, Amit Sethi, Anshuman Kumar
+Publication date : 2020/11/10
+Journal : Scientific Reports
+Volume 1, Issue 10, Pages 19427
+Publisher : Springer Science and Business Media {LLC}
 
 ## Citation
 If you use this code or the research in your work, please cite the following:
