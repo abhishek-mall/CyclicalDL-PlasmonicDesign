@@ -28,6 +28,7 @@ The program is pure-Python and runs on GPU. Additionally, the following librarie
 ## Citation
 If you use this code or the research in your work, please cite the following:
 
+```plaintext
 
 @article{mall2020cyclical,
   title={A cyclical deep learning based framework for simultaneous inverse and forward design of nanophotonic metasurfaces},
